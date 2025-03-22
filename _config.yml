@@ -28,7 +28,6 @@ twitter_username: its_june_son
 github_username: junhsonjb
 
 # Build settings
-# theme: jekyll-theme-console
 remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed

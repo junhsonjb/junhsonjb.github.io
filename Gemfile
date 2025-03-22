@@ -38,3 +38,4 @@ gem "jekyll-theme-console"
 gem "webrick", "~> 1.9"
 gem 'bigdecimal'
 gem 'logger'
+gem 'jekyll-remote-theme'
