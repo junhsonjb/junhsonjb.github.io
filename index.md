@@ -4,7 +4,6 @@
 
 title: /home
 layout: home
-permalink: /home
 ---
 
 # Hi! I'm Junhson!
