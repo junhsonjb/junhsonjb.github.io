@@ -34,3 +34,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # use console theme
 gem "jekyll-theme-console"
+
+gem "webrick", "~> 1.9"
+gem 'bigdecimal'
+gem 'logger'

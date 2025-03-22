@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Hi! I'm Junhson!
+
+welcome to the site! I'm still figuring out exactly what things will look like here but either way, it should be a good time. make yourself at home!
