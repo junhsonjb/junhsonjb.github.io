@@ -4,4 +4,4 @@ title: /about
 permalink: /about/
 ---
 
-I guess I'll write a little something about myself here.
+At some point, I'll write a little something about myself here.
